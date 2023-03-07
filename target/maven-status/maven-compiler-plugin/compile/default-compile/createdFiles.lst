@@ -1,0 +1,4 @@
+org\slf4j\impl\NOPLoggerFactory.class
+org\slf4j\impl\StaticLoggerBinder.class
+org\slf4j\impl\StaticMarkerBinder.class
+org\slf4j\impl\NOPLogger.class
